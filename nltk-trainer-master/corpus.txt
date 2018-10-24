@@ -1,0 +1,401 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Bangla">
+<Sentence id=1>
+মহিষের_NN সন্তান_NN :_SYM তোড়া_NNP উপজাতি_NN ৷_SYM 
+</Sentence>
+<Sentence id=2>
+বাসস্থান-ঘরগৃহস্থালি_NN তোড়া_NNP ভাষায়_NN গ্রামকেও_NN বলে_VM `_SYM মোদ_NN '_SYM ৷_SYM 
+</Sentence>
+<Sentence id=3>
+মোদের_NN আয়তন_NN খুব_INTF বড়ো_JJ নয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=4>
+প্রতি_QF মোদে_NN আছে_VM কিছু_QF কুঁড়েঘর_NN ,_SYM সাধারণ_JJ মহিষশালা_NN ৷_SYM 
+</Sentence>
+<Sentence id=5>
+আর_CC গ্রামের_NN বাইরে_NST থাকে_VM ডেয়ারি-মন্দির_NN ৷_SYM 
+</Sentence>
+<Sentence id=6>
+আয়তনের_NN তারতম্য_NN অনুসারে_PSP গ্রামগুলি_NN দু_QC রকমের_NN :_SYM এতূডমোদ_NNP (_SYM বড়ো_JJ গ্রাম_NN )_SYM ওকিনমোদ_NNP (_SYM ছোট_JJ গ্রাম_NN )_SYM ৷_SYM 
+</Sentence>
+<Sentence id=7>
+কোন_DEM কোন_RDP গ্রামের_NN আবার_CC ধর্মীয়_JJ বা_C﻿মহিষের_NN সন্তান_NN :_SYM তোড়া_NNP উপজাতি_NN ৷_SYM 
+</Sentence>
+<Sentence id=8>
+িকে_PRP বলে_VM `_SYM সোতি-মোদ_NNP '_SYM ৷_SYM 
+</Sentence>
+<Sentence id=9>
+কুঁড়েঘরগুলির_NN আকার_NN বাংলার_NNP বা_CC ভারতের_NNP অন্য_JJ অঞ্চলের_NN প্রচলিত_JJ কুঁড়ে_NN ঘর_NN নয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=10>
+এগুলি_PRP দেখতে_NN শোয়ানো_JJ পিপের_NN মতো_PSP ৷_SYM 
+</Sentence>
+<Sentence id=11>
+এক_QC দিকের_PSP বাঁশের_NN কাঠামো_NN খিলানের_NN মতো_PSP বেঁকে_JJ গিয়ে_VM অন্যদিকের_NN মাটিতে_NN মিশেছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=12>
+সেগুলি_PRP বেত_NN জাতীয়_JJ লতা_NN দিয়ে_PSP পরস্পর_NN বাঁধা_VM ৷_SYM 
+</Sentence>
+<Sentence id=13>
+ঘরগুলি_NN লম্বায়_NN 18_QC ফুট_NN ,_SYM চওড়ায়_NN 9_QC ফুট_NN আর_CC উচ্চতায়_NN 10_QC ফুটের_NN মতো_PSP ৷_SYM 
+</Sentence>
+<Sentence id=14>
+উপরের_NST ঢালু_JJ চাল_NN ঘাস-পাতা_NN দিয়ে_PSP মোটা_JJ করে_PSP ছাওয়া_VM ৷_SYM 
+</Sentence>
+<Sentence id=15>
+যাতে_CC বৃষ্টির_NN জল_NN ভেতরে_NST ঢুকতে_VM না_NEG পারে_VM ৷_SYM 
+</Sentence>
+<Sentence id=16>
+কুঁড়ের_NN সামনের_NST দিকে_PSP একটি_QC মাত্র_QF দরজা_NN ,_SYM আর_CC কোথাও_WQ কোন_QF রকমের_NN জানলা_NN বা_CC ঘুলঘুলি_NN নেই_VM ৷_ 
+</Sentence>
+<Sentence id=17>
+ঘরের_NN ভেতরে_NST ডানদিকের_NN মেঝে_NN কিছুটা_QF উঁচু_JJ করে_PSP তোলা_VM -_SYM সেটি_PRP তাদের_PRP শোবার_NN জায়গা_NN ৷_SYM 
+</Sentence>
+<Sentence id=18>
+বাঁদিকে_NN অগ্নিকুণ্ড_NN -_SYM তার_PRP পাশে_NST রান্না_NN করার_VM জায়গা_NN ৷_SYM 
+</Sentence>
+<Sentence id=19>
+সেখানেও_PRP মেঝে_NN কিছুটা_QF উঁচু_JJ -_SYM রান্নার_NN সরঞ্জাম_NN ও_CC বাসনকোসন_NN থাকে_VM সেখানে_PRP ৷_SYM 
+</Sentence>
+<Sentence id=20>
+প্রতিটি_QF ঘরের_NN ভেতরে_NST একটা_QC নির্দিষ্ট_JJ জায়গায়_NN থাকে_VM চাল_NN গুঁড়ো_NN করার_VM মুষল_NN ৷_SYM 
+</Sentence>
+<Sentence id=21>
+কুঁড়েগুলি_NN সাধারণত_RB চারপাশে_NST বেড়া_NN দিয়ে_VM ঘেরা_NN থাকে_VM ৷_SYM 
+</Sentence>
+<Sentence id=22>
+আজকাল_RB সহায়তায়_NN তোড়াদের_NNP জন্য_PSP কিছু_QF পাকাবাড়ী_NN করে_VM দেওয়া_VAUX হয়েছে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=23>
+জীবনযাপনের_NN জন্য_PSP প্রয়োজনীয়_JJ জিনিসপত্র_NN যাতে_CC তারা_PRP পায়_VM তারজন্যে_CC গ্রামের_NN কাছাকাছি_NST কিছুটা_QF করে_PSP জমি_NN তাদের_PRP পাট্টা_NN দেওয়া_VM হয়েছে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=24>
+এই_DEM জঙ্গল_NN এলাকায়_NN তারা_PRP স্বচ্ছন্দে_RB মোষ_NN চরাতে_VM পারে_VAUX ,_SYM বন_NN থেকে_PSP জ্বালানি_NN সংগ্রহ_NN করতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=25>
+এমন_DEM পাট্টা_NN জমির_NN সর্বমোট_JJ পরিমাণ_NN 2795_QC একর_NN ৷_SYM 
+</Sentence>
+<Sentence id=26>
+বাসের_NN ঘরের_NN পাশেই_NST থাকে_VM সাধারণ_JJ মহিষশালা_NN ৷_SYM 
+</Sentence>
+<Sentence id=27>
+মোষ_NN ও_CC তাদের_PRP বাছুরের_NN জন্য_PSP আলাদা_JJ আলাদা_RDP খোঁয়াড়ের_NN ব্যবস্থা_NN ৷_SYM 
+</Sentence>
+<Sentence id=28>
+ধর্মীয়_JJ মহিষশালা_NN ও_CC ডেয়ারিগুলি_NN থাকে_VM গ্রাম_NN থেকে_PSP বেশ_INTF কিছুটা_QF দূরে_NST ,_SYM সাধারণের_NN স্পর্শ_NN বাঁচিয়ে_VM ৷_SYM 
+</Sentence>
+<Sentence id=29>
+গ্রামের_NN পাশে_NST যেখানে_PRP জলের_NN উত্স_NN আছে_VM সেখানেই_PRP এই_DEM ডেয়ারিগুলি_NN স্থাপিত_JJ ৷_SYM 
+</Sentence>
+<Sentence id=30>
+এখানে_PRP মোষ_NN ,_SYM বাছুর_NN ও_CC অতি_INTF ছোট_JJ বাছুরের_NN জন্য_PSP তিন_QC রকমের_NN গোয়ালের_NN বন্দোবস্ত_NN ৷_SYM 
+</Sentence>
+<Sentence id=31>
+তোড়াদের_NN জীবনযাপন_NN প্রণালী_NN অভিজাত_JJ ,_SYM কিন্তু_CC তারা_PRP দরিদ্র_JJ ৷_SYM 
+</Sentence>
+<Sentence id=32>
+আর্থিক_JJ সঙ্গতি_NN কারো_PRP নেই_NEG ৷_SYM 
+</Sentence>
+<Sentence id=33>
+তাদের_PRP ঘরে_NN আসবাব_NN বলতে_UT কিছু_QF নেই_NEG ৷_SYM 
+</Sentence>
+<Sentence id=34>
+তারা_PRP চাষ_NN করে_VM না_NEG ,_SYM পশু_NN বা_CC মাছ_NN মারে_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=35>
+এ_DEM জন্য_PSP তাদের_PRP আছে_VM শুধু_QF দা_NN আর_CC কুড়ুল_NN যার_PRP প্রয়োজন_NN হয়_VM কাঠ_NN কাটার_VM জন্য_PSP ৷_SYM 
+</Sentence>
+<Sentence id=36>
+আর_CC আছে_VM তীর_XC ধনুক_NN ,_SYM শিকারের_NN জন্য_PSP অবশ্যই_RB নয়_NEG -_SYM ধর্মীয়_JJ তাত্পর্য্য_NN আছে_VM বলে_UT ৷_SYM 
+</Sentence>
+<Sentence id=37>
+আর_CC কিছুটা_QF আত্মরক্ষার_NN প্রয়োজনে_NN ৷_SYM 
+</Sentence>
+<Sentence id=38>
+পশুপালনের_NN জন্য_PSP এবং_CC ঘি_NN দুধ_NN মাখন_NN রাখার_VM জন্য_PSP প্রয়োজনীয়_NN নানারকম_JJ সরঞ্জাম_NN ও_CC পাত্র_NN তারা_PRP প্রতিবেশী_NN কোটাদের_NNP কাছ_NST থেকে_PSP কেনে_VM ৷_SYM 
+</Sentence>
+<Sentence id=39>
+কোটারা_NNP শিল্পীর_NN জাত_NN ৷_SYM 
+</Sentence>
+<Sentence id=40>
+তোড়ারা_NNP নিরামিষাশী_JJ ৷_SYM 
+</Sentence>
+<Sentence id=41>
+তবে_CC বিশেষ_JJ কোন_QF উত্সব_NN অনুষ্ঠানে_NN তারা_PRP দেবতাকে_NN উত্সর্গ_NN করা_VM মাংস_NN খেয়ে_VM থাকে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=42>
+আগে_NST তারা_PRP ঘি_NN দুধ_NN মধু_NN ফলমূল_NN খেয়ে_VM বেঁচে_VM থাকতVAUX_ ৷_SYM 
+</Sentence>
+<Sentence id=43>
+এখন_PRP খাদ্যাভ্যাস_NN বদলেছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=44>
+চালের_NN পায়েস_NN এখন_PRP এদের_PRP প্রিয়_JJ খাদ্যবস্তু_NN ৷_SYM 
+</Sentence>
+<Sentence id=45>
+তোড়াদের_NNP ধর্মকর্ম_NN সমস্তই_QF মোষ_NN এবং_CC ডেয়ারির_NN সঙ্গে_PSP সম্পর্কিত_JJ ৷_SYM 
+</Sentence>
+<Sentence id=46>
+এদের_PRP ধর্ম-দর্শন_NN নিয়ে_PSP তেমন_PRP গবেষণা_NN হয়নি_VM ৷_SYM 
+</Sentence>
+<Sentence id=47>
+এ_DEM বিষয়ে_NN আরো_QF বিস্তৃত_RB ও_CC ব্যাপকভাবে_RB অনুসন্ধানের_NN প্রয়োজন_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=48>
+সাধারণভাবে_RB বলা_VM চলে_VAUX পবিত্র_JJ মোষের_NN দুধ_NN দোয়া_VM ,_SYM সেই_PRP দুধ_NN থেকে_PSP মাখন_NN তোলা_VM ও_CC তার_PRP থেকে_PSP ঘি_NN প্রস্তুত_NN করা_VM হল_VM তোড়াদের_NN সর্বপ্রধান_JJ ধর্মকর্ম_NN ৷_SYM 
+</Sentence>
+<Sentence id=49>
+গ্রাম_NN থেকে_PSP দূরে_JJ পবিত্র_JJ মোষের_NN গোয়ালের_NN পাশে_NST যে_PRP গব্যশালা_NN থাকে_VM সেটিই_PRP তাদের_PRP মন্দির_NN ৷_SYM 
+</Sentence>
+<Sentence id=50>
+এই_DEM গব্যশালার_NN প্রতিটি_QF কাজ_NN তাদের_PRP ধর্মসাধনার_NN অঙ্গ_NN ৷_SYM 
+</Sentence>
+<Sentence id=51>
+মোষ_NN চরানো_VM থেকে_PSP শুরু_NN করে_VM ঘি_NN তৈরি_VM পর্য্যন্ত_PSP সমস্ত_JJ কাজ_NN ধর্মীয়_JJ আচার-আচরণ_NN বলে_UT বিবেচিত_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=52>
+ডেয়ারির_NN প্রতিটি_QF বস্তু_NN যেমন_CC -_SYM বাঁশের_NN ঝুড়ি_NN ,_SYM দুধের_NN পাত্র_NN ,_SYM মোষের_NN গলার_NN ঘণ্টা_NN ,_SYM গোয়ালের_NN প্রদীপ_NN ইত্যাদি_RP বিশেষ_INTF পবিত্র_JJ বলে_UT বিবেচিত_NN হয়_VM এব_CC বস্তুগুলি_NN ব্যবহারও_NN করা_VM হয়_VAUX পূজার_NN সামগ্রীর_NN মতো_PSP পবিত্রভাবে_RB ৷_SYM 
+</Sentence>
+<Sentence id=53>
+এই_DEM ডেয়ারির_NN মোষ_NN সকলে_PRP চরাবারও_VM অধিকারী_NN নয়_NEG ,_SYM অন্য_JJ কাজ_VM করা_VAUX তো_RP দূরের_JJ কথা_NN ৷_SYM 
+</Sentence>
+<Sentence id=54>
+বাইরের_NST সমস্ত_QF জিনিসের_NN ছোঁয়াচ_NN বাঁচিয়ে_VM ডেয়ারির_NN বস্তুগুলির_NN পবিত্রতা_NN রক্ষা_NN করা_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=55>
+সাধারণ_JJ গোয়ালে_NN যে_DEM সব_QF সাধারণ_JJ মোষ_NN থাকে_VM তাদের_PRP ক্ষেত্রে_PSP এতসব_QF বিধিনিষেধ_NN নেই_NEG ৷_SYM 
+</Sentence>
+<Sentence id=56>
+সে_PRP মোষ_NN যে-কেউ_PRP চরাতে_VM পারে_VAUX ,_SYM দুধ_NN দুইতে_VM পারে_VAUX ,_SYM সে_PRP দুধ_NN ঘরে_NN এনে_VM তার_PRP থেকে_PSP মাখন_NN তুলে_VM ঘিও_NN করা_VM যেতে_VAUX পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=57>
+তবে_CC তা_PRP ধর্মকর্ম_NN বলে_UT বিবেচিত_NN হবে_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=58>
+ধর্মীয়_JJ ডেয়ারি-মন্দিরগুলির_NN আবার_CC মর্য্যাদা_NN অনুযায়ী_PSP স্তরভেদ_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=59>
+পবিত্র_JJ মোষগুলির_NN পবিত্রতার_NN তিনটি_QC স্তর_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=60>
+সেই_PRP অনুযায়ী_PSP মন্দিরগুলির_NN পবিত্রতাও_NN তিন_QC স্তরের_NN ৷_SYM 
+</Sentence>
+<Sentence id=61>
+অবশ্য_RB এই_DEM ভেদ_NN শুধু_QF তোরথস_NNP গোষ্ঠীতেই_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=62>
+তৌফিলি_NNP গোষ্ঠীতে_NN পবিত্র_JJ মোষের_NN একটাই_QC স্তর_NN -_SYM “_SYM পোস্তঈর_NNP “_SYM ৷_SYM 
+</Sentence>
+<Sentence id=63>
+তোরথসদের_NNP সবচেয়ে_INTF উঁচু_JJ স্তরের_NN মোষ_NN ও_CC ডেয়ারির_NN হল_VM “_SYM তী_NNP “_SYM ৷_SYM 
+</Sentence>
+<Sentence id=64>
+কাসপ_NNP, নোস_NNP ,_SYM মোর_NNP ,_SYM পীরগোড_NNP এবং_CC নিডি_NNP -_SYM এই_DEM পাঁচটি_QC উপগোষ্ঠীতে_NN “_SYM তী_NNP “_SYM থাকতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=65>
+দ্বিতীয়_QO স্তরের_NN ডেয়ারির_NN নাম_NN “_SYM উইসেলি_NNP “_SYM ;_SYM তোরথসদের_NNP নোস্_NNP গোষ্ঠীর_NN এই_DEM ডেয়ারি_NN বিশেষ_INTF পবিত্র_JJ বলে_UT মনে_NN করা_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=66>
+এই_DEM ডেয়ারির_NN কুঁড়েঘরটির_NN গড়নে_NN বিশিষ্টতা_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=67>
+এটি_DEM সাধারণ_JJ কুঁড়ের_NN মতো_PSP দেখতে_VM নয়_NEG -_SYM শঙ্কুর_NN আকারের_NN ৷_SYM 
+</Sentence>
+<Sentence id=68>
+এর_PRP নামও_NN আলাদা_JJ -_SYM ‘_SYM পৌ_NNP ‘_SYM ৷_SYM 
+</Sentence>
+<Sentence id=69>
+সবচেয়ে_INTF নিচু_JJ স্তরের_NN ডেয়ারির_NN নাম_NN ‘_SYM পোলি_NNP ‘_SYM ৷_SYM 
+</Sentence>
+<Sentence id=70>
+প্রতি_QF মন্দিরে_NN একজন_NN করে_PSP পুরোহিত_NN থাকে_VM ৷_SYM 
+</Sentence>
+<Sentence id=71>
+লক্ষণীয়_JJ এই_DEM যে_CC ,_SYM উইসোলি_NNP ও_CC তী_NNP ডেয়ারি-মন্দির_NN তোরথসদের_NNP হলেও_VM সেখানে_PRP প্রধান_JJ পুরোহিত_NN থাকে_VM তৌফিলি_NNP গোষ্ঠীর_NN ৷_SYM 
+</Sentence>
+<Sentence id=72>
+তী_NNP ,_SYM পৌ_NNP ও_CC পোলি_NNP তোড়াদের_NNP অতি_INTF পবিত্র_JJ স্থান_NN ৷_SYM 
+</Sentence>
+<Sentence id=73>
+তারা_PRP এর_PRP পবিত্রতা_NN রক্ষা_NN করে_VM চলে_VM ৷_SYM 
+</Sentence>
+<Sentence id=74>
+এখান_PRP থেকে_PSP দুধ_NN চুরি_NN করা_VM গুরুতর_JJ পাপ_NN ৷_SYM 
+</Sentence>
+<Sentence id=75>
+ধর্মীয়_JJ মোষেদের_NN কাজে_NN অবহেলা_NN বা_CC তাদের_PRP প্রতি_NN অনাচার_NN পাপ_NN ৷_SYM 
+</Sentence>
+<Sentence id=76>
+দিনের_NN বেলা_NN ,_SYM সঙ্গমের_NN পর_NST বা_CC শ্মশান_NN থেকে_PSP ফিরে_VM ,_SYM কিংবা_CC তামাক_NN পাতা_NN মুখে_NN রেখে_VM পবিত্র_JJ মোষেদের_NN কাছে_NST যাওয়া_VM বা_CC ডেয়ারিতে_NN প্রবেশ_NN করা_VM মহাপাপ_NN ৷_SYM 
+</Sentence>
+<Sentence id=77>
+স্ত্রীলোকেরা_NN ডেয়ারি_NN বা_CC মন্দিরের_NN কোন_QF কাজ_NN করতে_VM পারে_VAUX না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=78>
+তোড়াধর্মতন্ত্র_NNP তাদের_PRP সে_PRP অধিকার_NN থেকে_PSP বঞ্চিত_NN করেছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=79>
+তোড়াদের_NNP ধর্মীয়_JJ আচারের_NN মধ্যে_NST প্রার্থনারও_NN প্রচলন_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=80>
+তবে_CC সে_PRP প্রার্থনা_NN কোন_QF দেবতার_NN স্তুতি_NN নয়_NEG ৷_SYM 
+</Sentence>
+<Sentence id=81>
+প্রার্থনা_NN আসলে_RB পবিত্র_JJ বস্তুগুলির_NN স্মরণ_NN ও_CC উচ্চারণ_NN ৷_SYM 
+</Sentence>
+<Sentence id=82>
+তাদের_PRP আকাঙ্ক্ষিত_JJ বস্তুর_NN একটি_QC তালিকাও_NN তারা_PRP আবৃত্তি_NN করে_VM থাকে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=83>
+তোড়াদের_NNP কয়েকজন_NN দেবতা_NN থাকলেও_VM তাদের_PRP আনুষ্ঠানিক_JJ পূজা_NN প্রচলিত_NN নেই_NEG ৷_SYM 
+</Sentence>
+<Sentence id=84>
+তোড়াদের_NNP ধর্ম_NN একান্তভাবেই_RB আচার_NN নির্ভর_NN ৷_SYM 
+</Sentence>
+<Sentence id=85>
+বাহ্য_JJ এবং_CC সাংসারিক_JJ কতকগুলি_NN কৃত্য_JJ তাদের_PRP সমাজে_NN ধর্মকর্মের_NN মর্য্যাদা_NN পেয়েছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=86>
+অনুমান_NN করা_VM হয়_VAUX ,_SYM এদের_PRP সমাজে_NN একসময়_NN দেবপূজার_NN প্রচলন_NN ছিল_VM ৷_SYM 
+</Sentence>
+<Sentence id=87>
+পরিস্থিতির_NN পরিবর্তনের_NN নানা_JJ কারণে_NN দেবতার_NN ভূমিকা_NN গৌণ_JJ হয়ে_VM পড়েছে_VAUX ;_SYM দেবঅর্চনার_NN স্থান_NN দখল_NN করেছে_VM বর্তমানের_NN কৃত্যগুলি_NN ৷_SYM 
+</Sentence>
+<Sentence id=88>
+সে_PRP সম্পর্কে_NN রিভার্স_NNP বলেছেন_VM :_SYM (_ ইরেজী_ অশ_ )তোড়া_NNP ছেলেমেয়ে_NN যখন_PRP নিতান্ত_RB শিশু_NN ,_SYM কয়েকমাস_NN মাত্র_QF তাদের_PRP বয়স_NN ,_SYM তখনই_PRP মা-বাবা_NN তাদের_PRP বিবাহ_NN স্থির_NN করে_VM রাখে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=89>
+সম্বন্ধ_NN পাকা_NN করার_VM সময়_NN কোন_QF রকম_NN অনুষ্ঠান_NN হয়_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=90>
+সম্বন্ধ_NN পাকা_NN হবার_VM পর_NST থেকে_PSP উভয়_NN পক্ষ_NN মাঝে_RB মাঝে_RDP জামা_NN কাপড়_NN আদানপ্রদান_NN করে_VM ৷_SYM 
+</Sentence>
+<Sentence id=91>
+ঋতুমতী_JJ না_NEG হওয়া_VM পর্য্যন্ত_PSP মেয়ে_NN মা-বাবার_NN কাছে_NST থাকে_VM ৷_SYM 
+</Sentence>
+<Sentence id=92>
+বড়ো_JJ হয়ে_VM মা-বাবার_NN স্থির_NN করা_VM সম্বন্ধ_NN অগ্রাহ্য_NN করে_VM নিজের_PRP পছন্দ_NN মতো_PSP কাউকে_NN সে_PRP বিয়ে_NN করতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=93>
+সমাজ-পঞ্চায়েত_NN (_SYM নোয়াম_NNP )_SYM তাতে_PRP বাধা_NN দেয়_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=94>
+বিবাহের_NN উপযুক্ত_JJ পাত্রী_NN হন_VM ‘SYM_ মোচিনি_NNP '_SYM ,_SYM অর্থাত্_CC পিসতুতো_JJ বোন_NN ;_SYM মামাতো_JJ বোনের_NN স্থান_NN তার_PRP পরে_NST ৷_SYM 
+</Sentence>
+<Sentence id=95>
+তোড়াদের_NNP বিয়েতে_NN কোন_QF মন্ত্রোচ্চারণ_NN হয়_VM না_NEG বা_CC কোন_QF রকম_NN আচার_NN পালন_NN নেই_NEG ৷_SYM 
+</Sentence>
+<Sentence id=96>
+পাত্রীর_NN বাড়ি_NN গিয়ে_VM পাত্র_NN তার_PRP ভাবী_JJ শ্বশুরের_NN পাদ-বন্দনা_NN করে_VM ,_SYM তাদের_PRP প্রণামের_NN নিজস্ব_JJ পদ্ধতি_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=97>
+গুরুজনের_NN সামনে_NST বসে_VM পর্যায়ক্রমে_RB তার_PRP দুটি_QC পা_NN তুলে_VM নিয়ে_VAUX সে_PRP নিজের_PRP মাথায়_NN ঠেকায়_VM এব_CC নিজের_PRP ইচ্ছা_NN জানায়_VM ৷_SYM 
+</Sentence>
+<Sentence id=98>
+কন্যার_NN বাবা_NN তখন_PRP তার_PRP কাছ_NST থেকে_PSP পণ_NN (_SYM কয়েকটি_QF মোষ_NN )_SYM দাবি_NN করে_VM ৷_SYM 
+</Sentence>
+<Sentence id=99>
+পাত্র_NN দিতে_VM রাজী_NN হলে_VM বিয়ে_NN ঠিক_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=100>
+বর_NN যতদিন_NN পর্য্যন্ত_PSP পণের_NN মোষ_NN দিতে_VM না_NEG পারে_VM ততদিন_NN বিয়ে_NN হয়_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=101>
+পণ_NN অবশ্য_RB কনের_NN বাবাকেও_NN দিতে_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=102>
+বরের_NN কাছে_NST সে_PRP যতগুলি_NN মোষ_NN পণ_NN হিসেবে_PSP (_SYM কোক্উইনি_NNP )_SYM নেয়_VM তার_PRP তিনগুণ_JJ মোষ_NN বরপণ_NN (_SYM অডপীন_NNP )_SYM বরকেই_NN দিতে_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=103>
+পণ_NN হিসেবে_PSP মেয়ের_NN বাবা_NN তার_PRP সবচেয়ে_INTF ভাল_JJ মোষটিও_NN দাবি_NN করতে_VM পারে_VAUX ৷SYM_ 
+</Sentence>
+<Sentence id=104>
+মোষ_NN দেওয়া-নেওয়া_VM হয়ে_VAUX গেলে_VAUX বর_NN একটি_QC ভোজ_NN দেয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=105>
+সেটিই_PRP এদের_PRP বিয়ের_NN একমাত্র_RB অনুষ্ঠান_NN ৷_SYM 
+</Sentence>
+<Sentence id=106>
+তোড়াকন্যাকে_NN যখন_CC কেউ_NN বিয়ে_NN করে_VM বাড়িতে_NN নিয়ে_VM আসে_VAUX তখন_CC সে_PRP একান্তভাবে_RB তারই_PRP বউ_NN থাকে_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=107>
+সে_PRP তার_PRP স্বামীর_NN অন্য_JJ ভাইদের_NN বউ_NN বলেও_UT গণ্য_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=108>
+বাড়ির_NN তিন_QC ভাইয়ের_NN বিয়ে_NN হলে_VM প্রত্যেক_QF বউয়ের_NN স্বামী_NN ওই_DEM তিন_QC ভাই_NN ৷_SYM 
+</Sentence>
+<Sentence id=109>
+অথবা_CC প্রত্যেক_QF ভাইয়ের_NN বউ_NN ওই_DEM তিনজন_NN ৷_SYM 
+</Sentence>
+<Sentence id=110>
+এদিক_NST দিয়ে_VM দেখলে_VM ,_SYM তোড়া_NN সমাজে_NN পুরুষ_NN ও_CC নারী_NN উভয়ের_NN মধ্যে_NST বহু_QF বিবাহ_NN প্রচলিত_JJ ,_SYM একথা_NN বলতে_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=111>
+স্বামীর_NN যদি_CC অন্য_JJ সহোদর_JJ ভাই_NN না_NEG থাকে_VM তাহলে_CC স্বামীর_NN সম্পর্কে_JJ ভাইদের_NN তার_PRP স্বামী_NN বলে_UT ধরা_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=112>
+অর্থাত্_CC এক_QC নারীর_NN একাধিক_JJ পরিবারে_NN বিয়ে_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=113>
+এ_DEM রীতি_NN এখনও_RB পর্য্যন্ত_PSP প্রচলিত_JJ ৷_SYM 
+</Sentence>
+<Sentence id=114>
+সন্তানের_NN পিতা_NN কাকে_WQ ধরা_VM হবে_VAUX ,_SYM তা_CC নির্ধারিত_NN হয়_VM একটি_QC বিশেষ_JJ প্রথা_NN পালনের_NN দ্বারা_PSP ৷_SYM 
+</Sentence>
+<Sentence id=115>
+সন্তানের_NN জন্মদাতা_NN পিতা_NN তার_PRP পিতৃত্বের_JJ অধিকার_NN নাও_NEG পেতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=116>
+বেশির_QF ভাগ_NN ক্ষেত্রেই_NN তা_CC পায়_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=117>
+সন্তানের_NN পিতৃত্ব-নির্ধারণ_NN ৷_SYM 
+</Sentence>
+<Sentence id=118>
+তোড়া_NNP সমাজের_NN সন্তানের_NN পিতৃত্ব_JJ নির্ধারণ_NN বা_CC পিতৃত্ব_JJ গ্রহণ_NN অনুষ্ঠানটির_NN বিশেষ_JJ সামাজিক_JJ গুরুত্ব_NN আছে_VM ৷_SYM 
+</Sentence>
+<Sentence id=119>
+অনুষ্ঠানটিতে_NN জাঁকজমক_NN কিছু_QF নেই_NEG ;_SYM একটি_QC অতি_INTF সরল_JJ প্রথাপালন_NN মাত্র_NN ৷_SYM 
+</Sentence>
+<Sentence id=120>
+কিন্তু_CC এ_DEM অনুষ্ঠান_NN পালনের_NN আগে_NST কোন_QF সন্তানের_NN জন্ম_NN হলে_VM তা_CC রীতিমতো_RB অশাস্ত্রীয়_JJ ও_CC গর্হিত_JJ বলে_UT বিবেচিত_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=121>
+দম্পতিকে_NN তাতে_CC লোকচক্ষুতে_NN হেয়_NN হতে_VM হয়_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=122>
+বাড়ির_NN বড়_JJ ভাই_NN সাধারণত_RB সমস্ত_QF সন্তানের_NN পিতৃত্ব_JJ নিয়ে_VM থাকে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=123>
+সহোদর_JJ ভাইদের_NN মধ্যে_NST অন্য_JJ কেউ_PRP কিছুকাল_NN পরে_NST পিতৃত্ব_JJ গ্রহণ_NN করতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=124>
+স্বামীর_NN সহোদর_JJ ভাই_NN না_NEG থাকলে_VM সম্পর্কের_NN ভাইদের_NN মধ্যে_NST কেউ_PRP একজন_NN পিতৃত্ব_JJ নিতে_VM পারে_VAUX ৷_SYM 
+</Sentence>
+<Sentence id=125>
+অনুষ্ঠান_NN পালনের_NN দ্বারা_PSP একজন_NN যখন_CC পিতৃত্ব_NN নেয়_VM তার_PRP পর_NST থেকে_PSP পরিবারে_NN যত_QF সন্তান_NN জন্মায়_VM তাদের_PRP সকলের_PRP পিতা_NN বলে_UT সে_PRP গণ্য_NN হয়_VM ৷_SYM 
+</Sentence>
+<Sentence id=126>
+পিতৃত্ব_JJ নেবার_VM পর_NST কেউ_PRP যদি_CC মারা_NN যায়_VM এবং_CC তাহলেও_CC মৃত_JJ ব্যক্তির_NN পিতৃত্বের_NN অধিকার_NN বজায়_NN থাকে_VM ৷_SYM 
+</Sentence>
+<Sentence id=127>
+এই_DEM সময়টুকুর_NN মধ্যে_NST যে_PRP সমস্ত_QF সন্তানের_NN জন্ম_NN হবে_VM তাদের_PRP পিতৃ_JJ পরিচয়_NN হবে_VM ঐ_DEM মৃত_JJ ব্যক্তিটির_NN নামে_NN ৷_SYM 
+</Sentence>
+<Sentence id=128>
+এক_QC পিতার_NN জীবিতকালে_NN পিতৃত্বের_NN বদল_NN হলে_VM অর্থাত্_CC অন্য_JJ কোন_QF ব্যক্তি_NN সামাজিক_JJ অনুষ্ঠান_NN পালনের_NN মাধ্যমে_PSP পিতৃত্ব_NN গ্রহণ_NN করলে_VM স্বভাবতই_RB আগের_NST পিতার_NN আর_CC অধিকার_NN থাকে_VM না_NEG ৷_SYM 
+</Sentence>
+<Sentence id=129>
+তখন_PRP থেকে_PSP সেই_PRP দ্বিতীয়_QO ব্যক্তি_NN পরিবারের_NN সব_QF সন্তানের_NN জনক_NN বলে_UT স্বীকৃতি_NN পায়_VM ৷_SYM 
+</Sentence>
+<Sentence id=130>
+উল্লেখ্য_JJ এই_DEM যে_CC ,_SYM পিতৃত্ব_NN গ্রহণের_NN এই_DEM ব্যাপারটি_NN প্রতিদ্বন্দ্বিতামূলক_JJ নয়_NEG ৷_SYM 
+</Sentence>
+<Sentence id=131>
+অনুষ্ঠানটি_NN এই_DEM রকম_NN ৷_SYM 
+</Sentence>
+<Sentence id=132>
+সাত_QC মাস_NN গর্ভের_NN সময়_NN কোন_QF এক_QC অমাবস্যার_NN দিনে_NN পত্নী_NN এবং_CC তার_PRP সন্তানের_NN পিতৃত্ব_NN প্রার্থী_NN কোন_QF এক_QC স্বামী_NN গ্রামের_NN বাইরে_NST এক_QC কিয়র_NNP গাছের_NN তলায়_NST গিয়ে_VM বসে_VM ৷_SYM 
+</Sentence>
+<Sentence id=133>
+গুরুজনেরাও_NN সেখানে_PRP উপস্থিত_NN থাকে_VM ৷_SYM 
+</Sentence>
+</Corpora>
